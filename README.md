@@ -1,5 +1,5 @@
 # Bike-Sharing-Assignment
-> Need to analyze the data provided for Boom Bikes(Bike sharing company) ang build a model to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. 
+> Need to analyze the data provided for Boom Bikes(Bike sharing company) and build a model to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. 
 
 
 ## Table of Contents
