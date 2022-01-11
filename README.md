@@ -1,4 +1,4 @@
-# Bikr-Sharing-Assignment
+# Bike-Sharing-Assignment
 > Outline a brief description of your project.
 
 
